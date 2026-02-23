@@ -182,4 +182,5 @@ for node_id, output in history[prompt_id]["outputs"].items():
 
 ---
 
-**Made with ❤️ — Star the repo if this saved you time!**
+**Star the repo if this saved you time!**
+
